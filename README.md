@@ -1,6 +1,5 @@
 **Key Features**
 
-https://github.com/Tejasshack/APTCoder_BackEnd_Assignment/blob/main/1Signup.png
 
 User authentication using JWT tokens.
 Role-based access control (RBAC) to restrict certain routes.
